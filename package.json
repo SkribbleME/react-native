@@ -131,7 +131,7 @@
     "react-native": "local-cli/wrong-react-native.js"
   },
   "peerDependencies": {
-    "react": "~15.3.1"
+    "react": "^15.3.1"
   },
   "dependencies": {
     "absolute-path": "^0.0.0",
