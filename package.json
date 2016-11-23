@@ -214,7 +214,7 @@
     "jest-runtime": "16.0.0",
     "mock-fs": "^3.11.0",
     "portfinder": "0.4.0",
-    "react": "~15.3.1",
+    "react": "^15.3.1",
     "shelljs": "0.6.0",
     "sinon": "^2.0.0-pre.2",
     "babel-eslint": "^7.0.0",
